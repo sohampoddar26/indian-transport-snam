@@ -5,6 +5,7 @@ Link to paper: https://link.springer.com/article/10.1007/s13278-024-01278-x
 
 ## Dataset Description
 ```sentiment.csv``` contains tweets labelled into (0) Neutral, (1) Negative, and (2) Positive
+
 ```grievance.csv``` contains tweets labelled into 12 categories in a multi-hot vector format.
 
 The tweets in the dataset have their usernames and URLs masked for privacy.
