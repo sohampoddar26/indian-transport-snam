@@ -14,5 +14,14 @@ The tweets in the dataset have their usernames and URLs masked for privacy.
 ## Cite us
 If you use our dataset please cite the following paper:
 ```
-Pullanikkat, R., Poddar, S., Das, A., Jaiswal, T., Singh, V.K., Basu, M., Ghosh, S., Utilizing the Twitter social media to identify transportation-related grievances in Indian cities. Social Network Analysis and Mining. 14, 118 (2024). https://doi.org/10.1007/s13278-024-01278-x
+@article{pullanikkat2024utilizing,
+  title={Utilizing the Twitter social media to identify transportation-related grievances in Indian cities},
+  author={Pullanikkat, Rahul and Poddar, Soham and Das, Anik and Jaiswal, Tushar and Singh, Vivek Kumar and Basu, Moumita and Ghosh, Saptarshi},
+  journal={Social Network Analysis and Mining},
+  volume={14},
+  number={1},
+  pages={118},
+  year={2024},
+  publisher={Springer}
+}
 ```
